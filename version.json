@@ -1,10 +1,10 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "date": "2026-11-02",
   "url": "https://github.com/godong02/ADC/releases/latest",
   "notes": {
-    "ko": "",
-    "en": "",
-    "zh": ""
+    "ko": "빌드 총 피해 표시, 판금 갑옷 패시브 2줄, 스킬 스택 선택 수정",
+    "en": "Build total damage, two passive rows on plate armor, skill stack fixes",
+    "zh": "配装总伤害显示、板甲两行被动、技能层数修正"
   }
 }
