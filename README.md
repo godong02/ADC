@@ -7,7 +7,7 @@ ZvZ engage damage calculator for Albion Online
 
 [**⬇ Download the latest version**](https://github.com/godong02/ADC/releases/latest) · English / 한국어 / 中文
 
-<img src="docs/result.png" width="560" alt="Example ADC result image">
+<img src="result.png" width="560" alt="Example ADC result image">
 
 </div>
 
