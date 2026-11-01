@@ -35,3 +35,4 @@ The date is shown next to the ADC version.
 **Q. How do I get new versions?**
 
 When you open ADC, it tells you if a new version is available. Overwrite your old file with the new one and your builds stay as they are.
+
