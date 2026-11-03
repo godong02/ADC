@@ -1,10 +1,10 @@
 {
-  "version": "1.1",
-  "date": "2026-11-02",
+  "version": "1.2",
+  "date": "2026-11-04",
   "url": "https://github.com/godong02/ADC/releases/latest",
   "notes": {
-    "ko": "빌드 총 피해 표시, 판금 갑옷 패시브 2줄, 스킬 스택 선택 수정",
-    "en": "Build total damage, two passive rows on plate armor, skill stack fixes",
-    "zh": "配装总伤害显示、板甲两行被动、技能层数修正"
+    "ko": "드래곤파이어 패치 4 게임 데이터 반영 (피의 수확 출혈 강화 등)",
+    "en": "Game data for Dragonfire Patch 4 (stronger Bloody Reap bleed and more)",
+    "zh": "更新至龙火补丁 4 游戏数据（血腥收割流血增强等）"
   }
 }
